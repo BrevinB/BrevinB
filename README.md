@@ -6,6 +6,6 @@ I'm a software developer who is passionate about constantly growing my skills an
 
 <p align="left">
   <a href="https://twitter.com/BrevinBlalock">
-    <img alt="Twitter" src="https://twitter.com/BrevinBlalock"/>
+    <img alt="Twitter" src="https://icons8.com/icon/13963/twitter"/>
   </a>
 </p>
